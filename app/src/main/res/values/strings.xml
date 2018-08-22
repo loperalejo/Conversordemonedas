@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conversor de monedas</string>
+    <string name="cantidad">Cantidad</string>
+    <string name="convertir">Convertir</string>
+    <string name="valor">Valor</string>
+    <string name="invertir">Invertir</string>
+</resources>
